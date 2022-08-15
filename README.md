@@ -25,7 +25,8 @@ As seen in the screenshot below, there is a qr code image which when scanned tak
 
 ### Links
 
-- Solution URL: ["QR Code Component Preview"](https://easythingz.net/project/qr-code-component)
+- Solution URL: ["QR Code Component Preview"](https://agbortoko.github.io/qr-code-component/)
+- Live URL: ["QR Code Component Live Implementation"](https://easythingz.net/project/qr-code-component)
 
 ## My process
 
